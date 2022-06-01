@@ -16,7 +16,7 @@
     "notistack": "^2.0.5",
     "opus-media-recorder": "^0.8.0",
     "qr-code-styling": "^1.6.0-rc.1",
-    "react": "^18.1.0",
+    "react": "^16.14.0",
     "react-cropper": "^2.1.8",
     "react-dom": "^18.1.0",
     "react-i18next": "^11.16.9",
